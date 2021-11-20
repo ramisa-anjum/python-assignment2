@@ -1,5 +1,7 @@
 // get a number from user (371)
+// convert number to astring= number+" "
 // identify the lenngth of number(3)
-// separate the number 3 - 7 - 1
-// loop through the numbers and take the power of each item og the length (3**3+7**3+1**3)
+// separate the number 3 - 7 - 1 string[0] string[1] string[2]
+// loop through the numbers and take the power of each item with the number length (3**3+7**3+1**3)
 // check the result above is the same with given number 371=3**3+7**3+1**3
+
